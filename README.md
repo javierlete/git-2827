@@ -1,3 +1,3 @@
 README LOCAL Y REMOTO
 Ahora tenemos una nueva caracter√≠stica
-
+Caracter√stica 2
