@@ -1,2 +1,2 @@
 README LOCAL Y REMOTO
-Caracter√≠sica 2
+Caracter√stica 2
